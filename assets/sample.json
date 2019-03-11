@@ -1,0 +1,40 @@
+{
+  "name": "Yudi Setiawan",
+  "age": 25,
+  "hobi": [
+    "Coding",
+    "Main Game",
+    "Menulis"
+  ],
+  "github": {
+    "username": "CoderJava",
+    "repository": 278
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Flutter: Introduction",
+      "subtitle": "Beautiful native apps with Dart language"
+    },
+    {
+      "id": 2,
+      "title": "Flutter: LinearLayout",
+      "subtitle": "How to design LinearLayout in Flutter"
+    },
+    {
+      "id": 3,
+      "title": "Flutter: RelativeLayout",
+      "subtitle": "How to design RelativeLayout in Flutter"
+    }
+  ],
+  "contact": {
+    "1": {
+      "name": "Personal",
+      "phone": "085212345678"
+    },
+    "2": {
+      "name": "Work",
+      "phone": "085312345678"
+    }
+  }
+}
